@@ -1,9 +1,5 @@
 '''Exercises
 You Are Going to make a love calculator for two person.
-HINT:
-1.lower() function change all the letter to string to lower case
-2.count() function will give you the number of time a letter occur in string
-3.convert lower than count
 '''
 print("Welcome to Love Calculator")
 name1 = input("What Is Your Name? \n")
